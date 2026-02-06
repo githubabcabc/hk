@@ -361,3 +361,6 @@ cloudflare.tv:443#cloudflare.tv
 videodelivery.net:443#videodelivery.net
 isbgpsafeyet.com:443#isbgpsafeyet.com
 cloudflarewarp.com:443#cloudflarewarp.com
+cloudflareinsights.com:443#cloudflareinsights.com
+cloudflareclient.com:443#cloudflareclient.com
+cloudflaressl.com:443#cloudflaressl.com
