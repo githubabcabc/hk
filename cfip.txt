@@ -359,3 +359,5 @@ immortalwrt.org:443#immortalwrt.org
 cloudflareportal.com:443#cloudflareportal.com
 cloudflare.tv:443#cloudflare.tv
 videodelivery.net:443#videodelivery.net
+isbgpsafeyet.com:443#isbgpsafeyet.com
+cloudflarewarp.com:443#cloudflarewarp.com
