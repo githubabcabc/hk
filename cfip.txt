@@ -354,4 +354,8 @@ zh-wireguard.com:443#zh-wireguard.com
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
 cf.affection.dpdns.org:443#cf.affection.dpdns.org
 mghk1.jaycwl.org:443#mghk1.jaycwl.org
-14saed.xyz:443#14saed.xyz
+isbgpsafeyet.com:443#isbgpsafeyet.com
+immortalwrt.org:443#immortalwrt.org
+cloudflareportal.com:443#cloudflareportal.com
+cloudflare.tv:443#cloudflare.tv
+videodelivery.net:443#videodelivery.net
