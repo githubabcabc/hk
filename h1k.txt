@@ -31,3 +31,5 @@ ai.com:443#ai.com
 spirol.com:443#spirol.com
 encryptedsni.com:443#encryptedsni.com
 unpkg.com:443#unpkg.com
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
+email.lg.com:443#email.lg.com
