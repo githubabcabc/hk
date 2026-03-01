@@ -35,7 +35,6 @@ cdn.2020111.xyz:443#cdn.2020111.xyz
 www.visa.com.tw:443#www.visa.com.tw
 www.shopify.com:443#www.shopify.com
 nrt.xxxxxxxx.nyc.mn:443#nrt.xxxxxxxx.nyc.mn
-openai.com:443#openai.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 dynadot.com:443#dynadot.com
 bbs.alipansou.com:443#bbs.alipansou.com
