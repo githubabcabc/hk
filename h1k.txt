@@ -1,5 +1,7 @@
+platform.openai.com:443#platform.openai.com
 help.openai.com:443#help.openai.com
-platform.openai.com:443#help.x.com
+blog.x.com:443#blog.x.com
+help.x.com:443#help.x.com
 cloudflare-dns.com:443#cloudflare-dns.com
 store.ubi.com:443#store.ubi.com
 www.ntu.edu.sg:443#www.ntu.edu.sg
@@ -7,13 +9,13 @@ www.shopify.com:443#www.shopify.com
 www.speedtest.net:443#www.speedtest.net
 nexusmods.com:443#nexusmods.com
 www.epicgames.com:443#www.epicgames.com
-mfa.gov.ua:443#mfa.gov.ua
+tajikistan.mfa.gov.ua:443#tajikistan.mfa.gov.ua
 www.jinjinchong.com:443#www.jinjinchong.com
 yapuyapu.com:443#yapuyapu.com
 h8443k.cngd.cloudns.org:443#h8443k.cngd.cloudns.org
 csgo.com:443#csgo.com
 www.udacity.com:443#www.udacity.com
-8443k.gdzh.cloudns.biz:443#h8443k.gdzh.cloudns.biz
+h8443k.gdzh.cloudns.biz:443#h8443k.gdzh.cloudns.biz
 h0443k.gdzh.cloudns.biz:443#h0443k.gdzh.cloudns.biz
 store.epicgames.com:443#store.epicgames.com
 saas.sin.fan:443#saas.sin.fan
@@ -27,9 +29,10 @@ h2087k.gdzh.cloudns.biz:443#h2087k.gdzh.cloudns.biz
 h2087k.cngd.cloudns.org:443#h2087k.cngd.cloudns.org
 h2096k.gdzh.cloudns.biz:443#h2096k.gdzh.cloudns.biz
 h2096k.cngd.cloudns.org:443#h2096k.cngd.cloudns.org
-ai.com:443#ai.com
+www.hypixel.net:443#www.hypixel.net
 spirol.com:443#spirol.com
 encryptedsni.com:443#encryptedsni.com
 unpkg.com:443#unpkg.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 email.lg.com:443#email.lg.com
+digitalocean.com:443#digitalocean.com
