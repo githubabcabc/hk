@@ -22,6 +22,7 @@ help.openai.com:443#help.openai.com
 egov.uscis.gov:443#egov.uscis.gov
 www.wto.org:443#www.wto.org
 dynadot.com:443#dynadot.com
+mfyx.cn:443#mfyx.cn
 shopify.com:443#shopify.com
 guide.for.edu.sg:443#guide.for.edu.sg
 shopify.com:443#shopify.com
