@@ -1,8 +1,4 @@
-argotunnel.com:443#argotunnel.com
 browser.run:443#browser.run
-cfargotunnel.com:443#cfargotunnel.com
-cfdata.org:443#cfdata.org
-cfl.re:443#cfl.re
 cloudflare-dns.com:443#cloudflare-dns.com
 cloudflare-ech.com:443#cloudflare-ech.com
 cloudflare-esni.com:443#cloudflare-esni.com
@@ -48,6 +44,5 @@ pages.dev:443#pages.dev
 r2.dev:443#r2.dev
 trycloudflare.com:443#trycloudflare.com
 videodelivery.net:443#videodelivery.net
-warp.plus:443#warp.plus
 workers.dev:443#workers.dev
 cloudflarestaging.com:443#cloudflarestaging.com
