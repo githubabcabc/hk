@@ -26,7 +26,7 @@ mfyx.cn:443#mfyx.cn
 shopify.com:443#shopify.com
 guide.for.edu.sg:443#guide.for.edu.sg
 shopify.com:443#shopify.com
-udacity.com:443#udacity.com
+stores.staples.com:443#stores.staples.com
 constitution.congress.gov:443#constitution.congress.gov
 hypixel.net:443#hypixel.net
 www.fbi.gov:443#www.fbi.gov
@@ -38,3 +38,4 @@ staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 email.lg.com:443#email.lg.com
 digitalocean.com:443#digitalocean.com
 auth.openai.com:443#auth.openai.com
+www.wayfair.com:443#www.wayfair.com
