@@ -16,5 +16,5 @@ h0443k.luyao.cloudns.org:443#h0443k.luyao.cloudns.org
 h8443k.luyao.cloudns.org:443#h8443k.luyao.cloudns.org
 h0443k.cngd.cloudns.org:443#h0443k.cngd.cloudns.org
 h8443k.cngd.cloudns.org:443#h8443k.cngd.cloudns.org
-h0443k.cngd.cloudns.org:443#h0443k.cngd.cloudns.org
-h8443k.cngd.cloudns.org:443#h8443k.cngd.cloudns.org
+h0443k.gdzh.cloudns.biz:443#h0443k.gdzh.cloudns.biz
+h8443k.gdzh.cloudns.biz:443#h8443k.gdzh.cloudns.biz
