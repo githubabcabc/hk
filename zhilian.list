@@ -39,7 +39,7 @@ DOMAIN-SUFFIX,www.web.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,store.ubi.com
-DOMAIN-SUFFIX,visa.cn
+DOMAIN-SUFFIX,www.visa.cn
 DOMAIN-SUFFIX,visa.com
 DOMAIN-SUFFIX,auth.openai.com
 DOMAIN-SUFFIX,help.openai.com
