@@ -1,3 +1,13 @@
+166.tencentapp.cn:443#166.tencentapp.cn
+888.cf.090227.xyz:443#888.cf.090227.xyz
+666.cloudflare.182682.xyz:443#666.cloudflare.182682.xyz
+freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
+cf.877774.xyz:443#cf.877774.xyz
+cdn.2020111.xyz:443#cdn.2020111.xyz
+cloudflare-dl.byoip.top:443#cloudflare-dl.byoip.top
+saas.sin.fan:443#saas.sin.fan
+bestcf.030101.xyz:443#bestcf.030101.xyz
+cfip.xxxxxxxx.tk:443#cfip.xxxxxxxx.tk
 www.shopify.com:443#www.shopify.com
 platform.openai.com:443#platform.openai.com
 www.w3.org:443#www.w3.org
