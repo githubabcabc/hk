@@ -35,7 +35,6 @@ dynadot.com:443#dynadot.com
 mfyx.cn:443#mfyx.cn
 shopify.com:443#shopify.com
 guide.for.edu.sg:443#guide.for.edu.sg
-shopify.com:443#shopify.com
 stores.staples.com:443#stores.staples.com
 constitution.congress.gov:443#constitution.congress.gov
 hypixel.net:443#hypixel.net
