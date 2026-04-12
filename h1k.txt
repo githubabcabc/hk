@@ -8,6 +8,7 @@ cloudflare-dl.byoip.top:443#cloudflare-dl.byoip.top
 saas.sin.fan:443#saas.sin.fan
 bestcf.030101.xyz:443#bestcf.030101.xyz
 cfip.xxxxxxxx.tk:443#cfip.xxxxxxxx.tk
+mfa.gov.ua:443#mfa.gov.ua
 www.shopify.com:443#www.shopify.com
 platform.openai.com:443#platform.openai.com
 www.w3.org:443#www.w3.org
@@ -27,7 +28,6 @@ www.udacity.com:443#www.udacity.com
 kickstarter.com:443#kickstarter.com
 bbs.alipansou.com:443#bbs.alipansou.com
 store.epicgames.com:443#store.epicgames.com
-saas.sin.fan:443#saas.sin.fan
 help.openai.com:443#help.openai.com
 egov.uscis.gov:443#egov.uscis.gov
 www.wto.org:443#www.wto.org
