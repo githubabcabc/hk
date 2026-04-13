@@ -10,7 +10,7 @@ bestcf.030101.xyz:443#bestcf.030101.xyz
 cfip.xxxxxxxx.tk:443#cfip.xxxxxxxx.tk
 cf.mubaiovo.top:443#cf.mubaiovo.top
 c-power.com.cn:443#c-power.com.cn
-cf.mubaiovo.top:443#cf.mubaiovo.top
+ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
 mfa.gov.ua:443#mfa.gov.ua
 www.shopify.com:443#www.shopify.com
 platform.openai.com:443#platform.openai.com
