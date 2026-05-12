@@ -60,3 +60,7 @@ www.swowd.com:443#www.swowd.com
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 www.5h.com:443#www.5h.com
+www.mc.js.cool:443#www.mc.js.cool
+www.xiaoshuofen.com:443#www.xiaoshuofen.com
+fk.hshwk.org:443#fk.hshwk.org
+www.vastnovel.com:443#www.vastnovel.com
