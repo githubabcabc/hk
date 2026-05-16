@@ -64,3 +64,4 @@ www.mc.js.cool:443#www.mc.js.cool
 fk.hshwk.org:443#fk.hshwk.org
 www.vastnovel.com:443#www.vastnovel.com
 www.sloomb.com:443#www.sloomb.com
+cnllm.com:443#cnllm.com
