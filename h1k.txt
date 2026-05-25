@@ -66,3 +66,4 @@ www.vastnovel.com:443#www.vastnovel.com
 www.sloomb.com:443#www.sloomb.com
 cnllm.com:443#cnllm.com
 www.athome.com:443#www.athome.com
+akasantech.com:443#akasantech.com
