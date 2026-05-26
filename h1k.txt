@@ -1,17 +1,4 @@
-youxuan.cf.090227.xyz:443#youxuan.cf.090227.xyz
-166.tencentapp.cn:443#166.tencentapp.cn
-888.cf.090227.xyz:443#888.cf.090227.xyz
-666.cloudflare.182682.xyz:443#666.cloudflare.182682.xyz
-freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
-cf.877774.xyz:443#cf.877774.xyz
-111.3666888.xyz:443#111.3666888.xyz
-cloudflare-dl.byoip.top:443#cloudflare-dl.byoip.top
-saas.sin.fan:443#saas.sin.fan
-bestcf.030101.xyz:443#bestcf.030101.xyz
-cfip.xxxxxxxx.tk:443#cfip.xxxxxxxx.tk
-cf.mubaiovo.top:443#cf.mubaiovo.top
 c-power.com.cn:443#c-power.com.cn
-ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
 mfa.gov.ua:443#mfa.gov.ua
 www.shopify.com:443#www.shopify.com
 platform.openai.com:443#platform.openai.com
@@ -67,3 +54,4 @@ www.sloomb.com:443#www.sloomb.com
 cnllm.com:443#cnllm.com
 www.athome.com:443#www.athome.com
 akasantech.com:443#akasantech.com
+gh-proxy.com:443#gh-proxy.com
