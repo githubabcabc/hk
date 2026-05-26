@@ -55,3 +55,9 @@ cnllm.com:443#cnllm.com
 www.athome.com:443#www.athome.com
 akasantech.com:443#akasantech.com
 gh-proxy.com:443#gh-proxy.com
+www.akasantech.com:443#www.akasantech.com
+yyurl.cc:443#yyurl.cc
+help.openai.com:443#help.openai.com
+2046ys.ink:443#2046ys.ink
+01-cctv.com:443#01-cctv.com
+01-qq.com:443#01-qq.com
