@@ -42,7 +42,7 @@ www.elysee.fr:443#www.elysee.fr
 www.carousell.sg:443#www.carousell.sg
 uspto.gov:443#uspto.gov
 www.blibli.com:443#www.blibli.com
-my.dnshe.com:443#my.dnshe.com
+www.4429.com.cn:443#www.4429.com.cn
 www.swowd.com:443#www.swowd.com
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
@@ -52,7 +52,7 @@ fk.hshwk.org:443#fk.hshwk.org
 www.vastnovel.com:443#www.vastnovel.com
 www.sloomb.com:443#www.sloomb.com
 cnllm.com:443#cnllm.com
-www.athome.com:443#www.athome.com
+www.blibli.com:443#www.blibli.com
 akasantech.com:443#akasantech.com
 gh-proxy.com:443#gh-proxy.com
 www.akasantech.com:443#www.akasantech.com
