@@ -1,3 +1,4 @@
+guangzhou.mfa.gov.ua:443#guangzhou.mfa.gov.ua
 c-power.com.cn:443#c-power.com.cn
 mfa.gov.ua:443#mfa.gov.ua
 www.shopify.com:443#www.shopify.com
