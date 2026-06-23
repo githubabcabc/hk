@@ -57,7 +57,7 @@ www.blibli.com:443#www.blibli.com
 akasantech.com:443#akasantech.com
 gh-proxy.com:443#gh-proxy.com
 www.akasantech.com:443#www.akasantech.com
-yyurl.cc:443#yyurl.cc
+idc.urkeji.com:443#idc.urkeji.com
 2046ys.ink:443#2046ys.ink
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
