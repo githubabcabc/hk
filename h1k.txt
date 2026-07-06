@@ -5,7 +5,7 @@ www.shopify.com:443#www.shopify.com
 platform.openai.com:443#platform.openai.com
 www.w3.org:443#www.w3.org
 serviceshub.samsclub.com:443#serviceshub.samsclub.com
-cloudflare-dns.com:443#cloudflare-dns.com
+cf.877774.xyz:443#cf.877774.xyz
 store.ubi.com:443#store.ubi.com
 www.ntu.edu.sg:443#www.ntu.edu.sg
 www.speedtest.net:443#www.speedtest.net
