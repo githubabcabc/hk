@@ -9,3 +9,4 @@ hongkongairport.com:443#香港·机场
 indonesia.com:443#印尼·Indonesia
 drmartens.co.kr:443#韩国·马丁靴
 grok.com:443#ai.grok
+apple-relay.cloudflare.com:443#apple-relay.cloudflare.com
