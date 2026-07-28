@@ -1,6 +1,7 @@
+drmartens.co.kr:443#drmartens.co.kr
 cn.090227.xyz:443#cn.090227.xyz
 guangzhou.mfa.gov.ua:443#guangzhou.mfa.gov.ua
-mfa.gov.ua:443#mfa.gov.ua
+www.galgamex.net:443#www.galgamex.net
 www.shopify.com:443#www.shopify.com
 platform.openai.com:443#platform.openai.com
 www.w3.org:443#www.w3.org
