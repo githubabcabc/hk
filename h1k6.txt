@@ -1,15 +1,10 @@
 www.csgo.com:443#低延迟游戏
-saas.sin.fan:443#中国·SaaS优选
 japan.com:443#日本·Japan
 singapore.com:443#新加坡·Singapore
 malaysia.com:443#马来西亚·Malaysia
-icook.tw:443#台湾·爱料理
-icook.hk:443#香港·爱料理
 ln.edu.hk:443#香港·岭南大学
 biomaterials.ust.hk:443#香港·科技大学
 hongkongairport.com:443#香港·机场
 indonesia.com:443#印尼·Indonesia
 drmartens.co.kr:443#韩国·马丁靴
-​cm.090227.xyz:443#移动专属
-​cloudflare.host:443#大陆优化
 ​itunes.apple.com:443#亚太边缘
