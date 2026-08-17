@@ -9,6 +9,10 @@ crixet.com:443#crixet.com
 oaistatic.com:443#oaistatic.com
 oaistatsig.com:443#oaistatsig.com
 auth.openai.com:443#auth.openai.com
+mfa.gov.ua:443#mfa.gov.ua
+bbs.alipansou.com:443#bbs.alipansou.com
+egov.uscis.gov:443#egov.uscis.gov
+www.wto.org:443#www.wto.org
 sonata.api.openai.com:443#sonata.api.openai.com
 sonata.openai.com:443#sonata.openai.com
 ab.chatgpt.com:443#ab.chatgpt.com
@@ -19,7 +23,3 @@ chat.openai.com:443#chat.openai.com
 api.openai.com:443#api.openai.com
 gpt.com:443#gpt.com
 sora.com:443#sora.com
-mfa.gov.ua:443#mfa.gov.ua
-bbs.alipansou.com:443#bbs.alipansou.com
-egov.uscis.gov:443#egov.uscis.gov
-www.wto.org:443#www.wto.org
