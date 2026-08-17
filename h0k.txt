@@ -19,3 +19,6 @@ sora.com:443#sora.com
 akasantech.com:443#akasantech.com
 mfa.gov.ua:443#mfa.gov.ua
 drmartens.co.kr:443#drmartens.co.kr
+bbs.alipansou.com:443#bbs.alipansou.com
+egov.uscis.gov:443#egov.uscis.gov
+www.wto.org:443#www.wto.org
