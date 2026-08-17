@@ -1,4 +1,3 @@
-nexusmods.com:443#nexusmods.com
 platform.openai.com:443#platform.openai.com
 drmartens.co.kr:443#drmartens.co.kr
 help.openai.com:443#help.openai.com
@@ -13,6 +12,7 @@ auth.openai.com:443#auth.openai.com
 mfa.gov.ua:443#mfa.gov.ua
 bbs.alipansou.com:443#bbs.alipansou.com
 egov.uscis.gov:443#egov.uscis.gov
+nexusmods.com:443#nexusmods.com
 www.wto.org:443#www.wto.org
 sonata.api.openai.com:443#sonata.api.openai.com
 ab.chatgpt.com:443#ab.chatgpt.com
