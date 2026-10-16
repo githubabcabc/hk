@@ -1,8 +1,8 @@
-drmartens.co.kr:443#drmartens.co.kr
-help.openai.com:443#help.openai.com
-akasantech.com:443#akasantech.com
-www.shopify.com:443#www.shopify.com
-openai.com:443#openai.com
-nexusmods.com:443#nexusmods.com
-platform.openai.com:443#platform.openai.com
-openai.com.cdn.cloudflare.net:443#openai.com.cdn.cloudflare.net
+drmartens.co.kr:443#drmartens.co.krXHTTP模式下:客户端要关分片，要开MUX
+help.openai.com:443#help.openai.comXHTTP模式下:客户端要关分片，要开MUX
+akasantech.com:443#akasantech.comXHTTP模式下:客户端要关分片，要开MUX
+www.shopify.com:443#www.shopify.comXHTTP模式下:客户端要关分片，要开MUX
+openai.com:443#openai.comXHTTP模式下:客户端要关分片，要开MUX
+nexusmods.com:443#nexusmods.comXHTTP模式下:客户端要关分片，要开MUX
+platform.openai.com:443#platform.openai.comXHTTP模式下:客户端要关分片，要开MUX
+openai.com.cdn.cloudflare.net:443#openai.com.cdn.cloudflare.netXHTTP模式下:客户端要关分片，要开MUX
