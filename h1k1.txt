@@ -1,10 +1,8 @@
-cn.090227.xyz:443#cn.090227.xyz
-guangzhou.mfa.gov.ua:443#guangzhou.mfa.gov.ua
-mfa.gov.ua:443#mfa.gov.ua
+drmartens.co.kr:443#drmartens.co.kr
+help.openai.com:443#help.openai.com
+akasantech.com:443#akasantech.com
 www.shopify.com:443#www.shopify.com
+openai.com:443#openai.com
+nexusmods.com:443#nexusmods.com
 platform.openai.com:443#platform.openai.com
-www.w3.org:443#www.w3.org
-serviceshub.samsclub.com:443#serviceshub.samsclub.com
-cf.877774.xyz:443#cf.877774.xyz
-store.ubi.com:443#store.ubi.com
-www.ntu.edu.sg:443#www.ntu.edu.sg
+openai.com.cdn.cloudflare.net:443#openai.com.cdn.cloudflare.net
