@@ -36,3 +36,5 @@ androidauthority.com:443#androidauthority.com
 raspberrypi.com:443#raspberrypi.com
 orcid.org:443#orcid.org
 ns1.com:443#ns1.com
+directus.iodirectus.io
+investing.com:443#investing.com
