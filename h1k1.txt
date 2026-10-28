@@ -11,4 +11,3 @@ nachrichten.at:443#nachrichten.at
 orcid.org:443#orcid.org
 androidauthority.com:443#androidauthority.com
 chinatimes.com:443#chinatimes.com
-directus.io:443#directus.io
