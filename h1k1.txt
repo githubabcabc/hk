@@ -4,10 +4,7 @@ akasantech.com:443#akasantech.com
 openai.com:443#openai.com
 platform.openai.com:443#platform.openai.com
 openai.com.cdn.cloudflare.net:443#openai.com.cdn.cloudflare.net
-swagger.io:443#swagger.io
-tandfonline.com:443#tandfonline.com
 libertatea.ro:443#libertatea.ro
-raspberrypi.com:443#raspberrypi.com
 irccloud.com:443#irccloud.com
 matrix.org:443#matrix.org
 nachrichten.at:443#nachrichten.at
@@ -15,4 +12,3 @@ orcid.org:443#orcid.org
 androidauthority.com:443#androidauthority.com
 chinatimes.com:443#chinatimes.com
 directus.io:443#directus.io
-investing.com:443#investing.com
