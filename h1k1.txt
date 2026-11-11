@@ -1,6 +1,6 @@
+openai.com:443#openai.com
 drmartens.co.kr:443#drmartens.co.kr
 help.openai.com:443#help.openai.com
 akasantech.com:443#akasantech.com
-openai.com:443#openai.com
 platform.openai.com:443#platform.openai.com
 openai.com.cdn.cloudflare.net:443#openai.com.cdn.cloudflare.net
